@@ -26,5 +26,5 @@ To get started with the tool, follow these steps:
 Install Dependencies:
 
    ```bash
-  npm install
-  npm start
+    npm install
+    npm start

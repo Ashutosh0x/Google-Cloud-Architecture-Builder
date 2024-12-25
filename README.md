@@ -28,5 +28,3 @@ Install Dependencies:
    ```bash
   npm install
   npm start
-
-
